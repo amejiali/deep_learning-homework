@@ -14,7 +14,7 @@
 
 ### Data Preparation
 
-1. Get Closing prices and Sentiment Dta.
+1. Get Closing prices and Sentiment Data.
 2. Predict Closing Prices using a 2 day window of previous closing prices and FNG Index (Files in Started Code)
 3. Split the data into 70% training and 30% testing
 4. Apply the MinMaxScaler to the X and y values
